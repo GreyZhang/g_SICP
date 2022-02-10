@@ -7,3 +7,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122832150][1134_SICP学习笔记_平方根求解以及递归思想]] 
 - [[https://greyzhang.blog.csdn.net/article/details/122849876][1135_SICP学习笔记_重新认识斐波那契与高阶抽象]]
 - [[https://greyzhang.blog.csdn.net/article/details/122850055][1136_SICP学习笔记_赋值与局部状态]]
+- [[https://greyzhang.blog.csdn.net/article/details/122871118][1138_SICP学习笔记_软件抽象以及lisp简介]]
