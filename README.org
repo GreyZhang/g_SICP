@@ -9,3 +9,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122850055][1136_SICP学习笔记_赋值与局部状态]]
 - [[https://greyzhang.blog.csdn.net/article/details/122871118][1138_SICP学习笔记_软件抽象以及lisp简介]]
 - [[https://greyzhang.blog.csdn.net/article/details/122889494][1139_SICP学习笔记_条件表达式与谓词]]
+- [[https://greyzhang.blog.csdn.net/article/details/122902873][1140_SICP学习笔记_使用牛顿的方法求解平方根]]
