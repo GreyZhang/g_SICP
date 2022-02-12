@@ -11,3 +11,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122889494][1139_SICP学习笔记_条件表达式与谓词]]
 - [[https://greyzhang.blog.csdn.net/article/details/122902873][1140_SICP学习笔记_使用牛顿的方法求解平方根]]
 - [[https://greyzhang.blog.csdn.net/article/details/122903209][1141_SICP学习笔记_作为黑盒抽象的函数]]
+- [[https://greyzhang.blog.csdn.net/article/details/122904050][1142_SICP学习笔记_函数以及由函数创建的进程_线性递归以及迭代]]
