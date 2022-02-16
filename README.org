@@ -16,3 +16,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122913966][1145_SICP学习笔记_算法增长的复杂度]]
 - [[https://greyzhang.blog.csdn.net/article/details/122933230][1146_SICP学习笔记_幂运算]]
 - [[https://greyzhang.blog.csdn.net/article/details/122972621][1153_SICP学习笔记_求取最大公约数]]
+- [[https://greyzhang.blog.csdn.net/article/details/122972687][1154_SICP学习笔记_素数求解]]
