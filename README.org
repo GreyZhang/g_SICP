@@ -24,3 +24,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122990408][1165_SICP学习笔记_使用数据进行抽象简介]]
 - [[https://greyzhang.blog.csdn.net/article/details/122990440][1166_SICP学习笔记_有理数的算数运算]]
 - [[https://greyzhang.blog.csdn.net/article/details/122992725][1168_SICP学习笔记_数据抽象的分界界限]]
+- [[https://greyzhang.blog.csdn.net/article/details/122992756][1169_SICP学习笔记_数据意味着什么]]
