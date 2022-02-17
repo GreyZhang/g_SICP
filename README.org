@@ -21,3 +21,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122973332][1162_SICP学习笔记_使用lambda构建函数]]
 - [[https://greyzhang.blog.csdn.net/article/details/122990357][1163_SICP学习笔记_函数使用的一般方法]]
 - [[https://greyzhang.blog.csdn.net/article/details/122990384][1164_SICP学习笔记_函数作为返回值]]
+- [[https://greyzhang.blog.csdn.net/article/details/122990408][1165_SICP学习笔记_使用数据进行抽象简介]]
