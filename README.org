@@ -27,3 +27,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122992756][1169_SICP学习笔记_数据意味着什么]]
 - [[https://greyzhang.blog.csdn.net/article/details/122992780][1170_SICP学习笔记_序列的表达]]
 - [[https://greyzhang.blog.csdn.net/article/details/123020673][1174_SICP学习笔记_层次结构]]
+- [[https://greyzhang.blog.csdn.net/article/details/123036445][1175_SICP学习笔记_map-列表元素的批量处理]]
