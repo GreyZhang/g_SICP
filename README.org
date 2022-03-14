@@ -30,3 +30,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/123036445][1175_SICP学习笔记_map-列表元素的批量处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/123055929][1176_SICP学习笔记_对序的通用接口处理]]
 - [[https://greyzhang.blog.csdn.net/article/details/123078683][1177_SICP学习笔记_嵌套映射]]
+- [[https://greyzhang.blog.csdn.net/article/details/123491083][1191_SICP学习笔记_符号化数据之引用]]
