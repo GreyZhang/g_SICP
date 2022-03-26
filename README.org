@@ -33,3 +33,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/123491083][1191_SICP学习笔记_符号化数据之引用]]
 - [[https://greyzhang.blog.csdn.net/article/details/123513088][1192_SICP学习笔记_符号化微分]]
 - [[https://greyzhang.blog.csdn.net/article/details/123624267][1193_SICP学习笔记_集合的表达]]
+- [[https://greyzhang.blog.csdn.net/article/details/123751741][1194_SICP学习笔记_霍夫曼编码树]]
