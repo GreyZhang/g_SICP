@@ -34,3 +34,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/123513088][1192_SICP学习笔记_符号化微分]]
 - [[https://greyzhang.blog.csdn.net/article/details/123624267][1193_SICP学习笔记_集合的表达]]
 - [[https://greyzhang.blog.csdn.net/article/details/123751741][1194_SICP学习笔记_霍夫曼编码树]]
+- [[https://greyzhang.blog.csdn.net/article/details/123782216][1195_SICP学习笔记_抽象数据的多重表示]]
